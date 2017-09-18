@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DialogBoxForMaterialDesignToolkitInXaml</id>
+    <version>1.0.0</version>
+    <title>DialogBoxForMaterialDesignToolkitInXaml</title>
+    <authors>WJHau</authors>
+    <owners>WJHau</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a dialog box which behave like MessageBox of WinForms</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2017 WJHau</copyright>
+    <tags>WPF MaterialDesign Dialogs</tags>
+  </metadata>
+</package>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraTools", "..\..\DialogBoxForMaterialDesignInXamlToolkit\ExtraTools\ExtraTools.csproj", "{C18E35E9-E983-4DB9-A69E-7C1BDA4705DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraTools", "ExtraTools.csproj", "{C18E35E9-E983-4DB9-A69E-7C1BDA4705DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

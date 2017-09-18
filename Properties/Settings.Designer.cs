@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DialogBox.Properties
+namespace ExtraTools.Properties
 {
     
     
