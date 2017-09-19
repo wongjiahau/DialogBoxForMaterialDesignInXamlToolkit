@@ -4,6 +4,12 @@ This is the repo to host the source code for MaterialDesign DialogBox that behav
 ## Prerequisite
 You have to [install](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit/wiki/Super-Quick-Start) MaterialDesignInXamlToolkit before you use this library. 
 
+## How to install?
+You can install this package via Nuget package manager console :   
+```nuget
+Install-Package DialogBoxForMaterialDesignToolkitInXaml -Version 1.0.0
+```
+
 ## How to use ?
 ### To show one button only : 
 ```C#
